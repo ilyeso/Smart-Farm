@@ -1,0 +1,2 @@
+465 Mouton Femelle 12 Non_Vac Non_Mal Non_Ges 28 9 2020
+56 vache Male 10 Non_Vac Mal Non_Ges 23 6 2020

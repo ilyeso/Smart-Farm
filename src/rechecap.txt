@@ -1,0 +1,2 @@
+1 temperature samsung zoneA -20 100 interieur perm
+14 pression ttc zoneA 50 200 interieur perm

@@ -1,0 +1,4 @@
+1 Temperature jardin 26.00
+2 Temperature zoneA 28.00
+3 Temperature ZoneB 26.50
+

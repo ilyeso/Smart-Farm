@@ -1,0 +1,6 @@
+1 temperature samsung zoneA -20 100 interieur perm
+2 temperature nokia zoneA -10 110 interieur etan
+3 temperature samsung zoneA -10 110 interieur etan
+5 temperature ilyes zoneA -10 110 interieur etan
+10 Humidite nokia zoneB 29 100 Exterieur Etanche
+14 pression ttc zoneA 50 200 interieur perm
