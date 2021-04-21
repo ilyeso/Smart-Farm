@@ -26,5 +26,5 @@
 
 
 
-#NB : ce projet se compile sous Ubuntu 
+# NB : ce projet se compile sous Ubuntu 
 
