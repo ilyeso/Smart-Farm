@@ -12,10 +12,10 @@ Cette application est développée avec l'outil Glade sous Ubuntu 18, la bibliot
         - Gestion des troupeaux.
 
 ### Espace Admin :
-	  - La marque ayant le maximum des capteurs défectueux.
+	 - La marque ayant le maximum des capteurs défectueux.
  	 - La liste des capteurs ayant des valeurs alarmantes. (*) 
-	  - Le taux d’absentéisme.
-	  - Le nombre de troupeaux de chaque type.
+	 - Le taux d’absentéisme.
+	 - Le nombre de troupeaux de chaque type.
  	 - Le meilleur ouvrier.
  	 - L'année la plus sèche.
 
