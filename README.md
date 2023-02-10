@@ -6,6 +6,7 @@ Cette application est développée avec l'outil Glade sous Ubuntu 18, la bibliot
 ## Ce projet comporte :
 * Authentification flexible qui - selon l’identifiant entré -  permet l’accès soit à l’espace admin soit à l’espace employé .
 * Espace employé : 
+
         - Gestion des capteurs. 
         - Gestion des clients.
         - Gestion des troupeaux.
